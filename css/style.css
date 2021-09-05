@@ -4,3 +4,29 @@
     justify-content: center;
     padding: 1rem;
 }
+
+.certification-area {
+    background-image: -moz-linear-gradient(0deg, #62bdfc 0%, #8490ff 100%);
+    background-image: -webkit-linear-gradient(0deg, #62bdfc 0%, #8490ff 100%);
+    background-image: -ms-linear-gradient(0deg, #62bdfc 0%, #8490ff 100%);
+    color: #fff !important;
+}
+
+.certification-area h1, .certification-area h2, a {
+    color: #fff;
+}
+
+.cert-image {
+    max-width: 30rem;
+    height: auto;
+}
+
+.desc-cert {
+    padding: 3rem 1rem 3rem 1rem;
+}
+
+.company {
+    margin-top: 1rem;
+    font-weight: 300;
+    font-size: 20px;
+}
